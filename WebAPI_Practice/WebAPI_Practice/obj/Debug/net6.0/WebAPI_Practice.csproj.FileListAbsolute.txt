@@ -1,0 +1,64 @@
+C:\Users\al5260\Desktop\DOTNET\WebAPI_Practice\WebAPI_Practice\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\al5260\Desktop\DOTNET\WebAPI_Practice\WebAPI_Practice\bin\Debug\net6.0\appsettings.json
+C:\Users\al5260\Desktop\DOTNET\WebAPI_Practice\WebAPI_Practice\bin\Debug\net6.0\WebAPI_Practice.exe
+C:\Users\al5260\Desktop\DOTNET\WebAPI_Practice\WebAPI_Practice\bin\Debug\net6.0\WebAPI_Practice.deps.json
+C:\Users\al5260\Desktop\DOTNET\WebAPI_Practice\WebAPI_Practice\bin\Debug\net6.0\WebAPI_Practice.runtimeconfig.json
+C:\Users\al5260\Desktop\DOTNET\WebAPI_Practice\WebAPI_Practice\bin\Debug\net6.0\WebAPI_Practice.dll
+C:\Users\al5260\Desktop\DOTNET\WebAPI_Practice\WebAPI_Practice\bin\Debug\net6.0\WebAPI_Practice.pdb
+C:\Users\al5260\Desktop\DOTNET\WebAPI_Practice\WebAPI_Practice\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\al5260\Desktop\DOTNET\WebAPI_Practice\WebAPI_Practice\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\al5260\Desktop\DOTNET\WebAPI_Practice\WebAPI_Practice\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\al5260\Desktop\DOTNET\WebAPI_Practice\WebAPI_Practice\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\al5260\Desktop\DOTNET\WebAPI_Practice\WebAPI_Practice\obj\Debug\net6.0\WebAPI_Practice.csproj.AssemblyReference.cache
+C:\Users\al5260\Desktop\DOTNET\WebAPI_Practice\WebAPI_Practice\obj\Debug\net6.0\WebAPI_Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\al5260\Desktop\DOTNET\WebAPI_Practice\WebAPI_Practice\obj\Debug\net6.0\WebAPI_Practice.AssemblyInfoInputs.cache
+C:\Users\al5260\Desktop\DOTNET\WebAPI_Practice\WebAPI_Practice\obj\Debug\net6.0\WebAPI_Practice.AssemblyInfo.cs
+C:\Users\al5260\Desktop\DOTNET\WebAPI_Practice\WebAPI_Practice\obj\Debug\net6.0\WebAPI_Practice.csproj.CoreCompileInputs.cache
+C:\Users\al5260\Desktop\DOTNET\WebAPI_Practice\WebAPI_Practice\obj\Debug\net6.0\WebAPI_Practice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\al5260\Desktop\DOTNET\WebAPI_Practice\WebAPI_Practice\obj\Debug\net6.0\WebAPI_Practice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\al5260\Desktop\DOTNET\WebAPI_Practice\WebAPI_Practice\obj\Debug\net6.0\staticwebassets\msbuild.WebAPI_Practice.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\al5260\Desktop\DOTNET\WebAPI_Practice\WebAPI_Practice\obj\Debug\net6.0\staticwebassets\msbuild.build.WebAPI_Practice.props
+C:\Users\al5260\Desktop\DOTNET\WebAPI_Practice\WebAPI_Practice\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebAPI_Practice.props
+C:\Users\al5260\Desktop\DOTNET\WebAPI_Practice\WebAPI_Practice\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebAPI_Practice.props
+C:\Users\al5260\Desktop\DOTNET\WebAPI_Practice\WebAPI_Practice\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\al5260\Desktop\DOTNET\WebAPI_Practice\WebAPI_Practice\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\al5260\Desktop\DOTNET\WebAPI_Practice\WebAPI_Practice\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\al5260\Desktop\DOTNET\WebAPI_Practice\WebAPI_Practice\obj\Debug\net6.0\scopedcss\bundle\WebAPI_Practice.styles.css
+C:\Users\al5260\Desktop\DOTNET\WebAPI_Practice\WebAPI_Practice\obj\Debug\net6.0\WebAPI_Practice.csproj.CopyComplete
+C:\Users\al5260\Desktop\DOTNET\WebAPI_Practice\WebAPI_Practice\obj\Debug\net6.0\WebAPI_Practice.dll
+C:\Users\al5260\Desktop\DOTNET\WebAPI_Practice\WebAPI_Practice\obj\Debug\net6.0\refint\WebAPI_Practice.dll
+C:\Users\al5260\Desktop\DOTNET\WebAPI_Practice\WebAPI_Practice\obj\Debug\net6.0\WebAPI_Practice.pdb
+C:\Users\al5260\Desktop\DOTNET\WebAPI_Practice\WebAPI_Practice\obj\Debug\net6.0\WebAPI_Practice.genruntimeconfig.cache
+C:\Users\al5260\Desktop\DOTNET\WebAPI_Practice\WebAPI_Practice\obj\Debug\net6.0\ref\WebAPI_Practice.dll
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\WebAPI_Practice\WebAPI_Practice\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\WebAPI_Practice\WebAPI_Practice\bin\Debug\net6.0\appsettings.json
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\WebAPI_Practice\WebAPI_Practice\bin\Debug\net6.0\WebAPI_Practice.exe
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\WebAPI_Practice\WebAPI_Practice\bin\Debug\net6.0\WebAPI_Practice.deps.json
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\WebAPI_Practice\WebAPI_Practice\bin\Debug\net6.0\WebAPI_Practice.runtimeconfig.json
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\WebAPI_Practice\WebAPI_Practice\bin\Debug\net6.0\WebAPI_Practice.dll
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\WebAPI_Practice\WebAPI_Practice\bin\Debug\net6.0\WebAPI_Practice.pdb
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\WebAPI_Practice\WebAPI_Practice\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\WebAPI_Practice\WebAPI_Practice\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\WebAPI_Practice\WebAPI_Practice\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\WebAPI_Practice\WebAPI_Practice\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\WebAPI_Practice\WebAPI_Practice\obj\Debug\net6.0\WebAPI_Practice.csproj.AssemblyReference.cache
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\WebAPI_Practice\WebAPI_Practice\obj\Debug\net6.0\WebAPI_Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\WebAPI_Practice\WebAPI_Practice\obj\Debug\net6.0\WebAPI_Practice.AssemblyInfoInputs.cache
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\WebAPI_Practice\WebAPI_Practice\obj\Debug\net6.0\WebAPI_Practice.AssemblyInfo.cs
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\WebAPI_Practice\WebAPI_Practice\obj\Debug\net6.0\WebAPI_Practice.csproj.CoreCompileInputs.cache
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\WebAPI_Practice\WebAPI_Practice\obj\Debug\net6.0\WebAPI_Practice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\WebAPI_Practice\WebAPI_Practice\obj\Debug\net6.0\WebAPI_Practice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\WebAPI_Practice\WebAPI_Practice\obj\Debug\net6.0\staticwebassets\msbuild.WebAPI_Practice.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\WebAPI_Practice\WebAPI_Practice\obj\Debug\net6.0\staticwebassets\msbuild.build.WebAPI_Practice.props
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\WebAPI_Practice\WebAPI_Practice\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebAPI_Practice.props
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\WebAPI_Practice\WebAPI_Practice\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebAPI_Practice.props
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\WebAPI_Practice\WebAPI_Practice\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\WebAPI_Practice\WebAPI_Practice\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\WebAPI_Practice\WebAPI_Practice\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\WebAPI_Practice\WebAPI_Practice\obj\Debug\net6.0\scopedcss\bundle\WebAPI_Practice.styles.css
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\WebAPI_Practice\WebAPI_Practice\obj\Debug\net6.0\WebAPI_Practice.csproj.CopyComplete
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\WebAPI_Practice\WebAPI_Practice\obj\Debug\net6.0\WebAPI_Practice.dll
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\WebAPI_Practice\WebAPI_Practice\obj\Debug\net6.0\refint\WebAPI_Practice.dll
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\WebAPI_Practice\WebAPI_Practice\obj\Debug\net6.0\WebAPI_Practice.pdb
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\WebAPI_Practice\WebAPI_Practice\obj\Debug\net6.0\WebAPI_Practice.genruntimeconfig.cache
+C:\Users\al5260\Desktop\DOTNET_Mylearnings projects&sol\WebAPI_Practice\WebAPI_Practice\obj\Debug\net6.0\ref\WebAPI_Practice.dll
